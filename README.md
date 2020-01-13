@@ -1,5 +1,3 @@
-# React-Redux-Starter-Create-React-App
+# react redux starter
 
-Ce repo est une copie du projet  React-Redux-Starter seulement celui ci a été installé avec la commande create-react-app
-
-De plus les versions de react et redux y sont plus récente.
+Just a up and running light starter kick for react and redux app
